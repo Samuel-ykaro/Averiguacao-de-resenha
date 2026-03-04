@@ -1,2 +1,2 @@
-# Averiguacao-de-resenha
-👀
+#Averiguando resenha
+##Averiguação de resenhas
